@@ -39,5 +39,8 @@ auto_sync.bat
 sync_config.json
 github_setup_complete.bat
 
+# Local config (contains sensitive data)
+config.json
+
 # Private
 *.md.bak
