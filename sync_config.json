@@ -1,0 +1,6 @@
+{
+    "interval_minutes": 30,
+    "repo_path": "E:/github_repos",
+    "auto_start": true,
+    "push_on_commit": true
+}
