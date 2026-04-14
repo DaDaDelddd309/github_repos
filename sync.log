@@ -12,3 +12,12 @@
 [2026-04-14 15:39:01] 日志文件: E:\github_repos\sync.log
 [2026-04-14 15:39:01] ========================================
 [2026-04-14 15:39:01] 开始同步检查
+[2026-04-14 15:39:02] 已提交: Auto-sync 2026-04-14 15:39
+[2026-04-14 15:39:02] 推送失败: fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+[2026-04-14 16:09:02] ========================================
+[2026-04-14 16:09:04] 开始同步检查
